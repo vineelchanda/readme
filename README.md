@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Vineel Kumar Chanda, a passionate software developer from Hyderabad, India.<br><br>- 🔬 I’m currently working as a Senior Software Engineer at Kore.ai.<br>- 📘 I'm experienced in backend development, microservices, and conversational AI.<br>- ✨ I enjoy learning about cutting-edge technologies like RAG and generative AI.<br>- ⚡ In my free time, I work on projects like Twitter sentiment analysis and explore new coding paradigms.</p>
+<p align="left">I'm Vineel Kumar Chanda, a passionate software developer from Hyderabad, India.<br><br>- 🔬 I’m currently working as a Senior Software Engineer at Crunchyroll.<br>- 📘 I'm experienced in backend development, microservices, and conversational AI.<br>- ✨ I enjoy learning about cutting-edge technologies like RAG and generative AI.<br>- ⚡ In my free time, I work on projects like Twitter sentiment analysis and explore new coding paradigms.</p>
 
 ###
 
